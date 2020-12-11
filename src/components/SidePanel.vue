@@ -1,12 +1,12 @@
 <template>
-    <p> i am the component</p>
+<h1> Side Panel</h1>   
 
 </template>
 
 <script>
 
 export default{
-    name: 'VueMenu'
+    name: 'VueSidePanel'
 }
 
 </script>

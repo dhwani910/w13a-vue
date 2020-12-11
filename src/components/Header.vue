@@ -1,12 +1,12 @@
 <template>
-    <p> i am the component</p>
+<h1> Header</h1>   
 
 </template>
 
 <script>
 
 export default{
-    name: 'VueMenu'
+    name: 'VueHeader'
 }
 
 </script>

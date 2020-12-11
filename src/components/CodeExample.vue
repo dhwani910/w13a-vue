@@ -1,12 +1,13 @@
 <template>
-    <p> i am the component</p>
+<h1> My Code Example</h1>   
+
 
 </template>
 
 <script>
 
 export default{
-    name: 'VueMenu'
+    name: 'VueCodeExample'
 }
 
 </script>
