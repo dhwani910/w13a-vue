@@ -12,5 +12,8 @@ export default{
 </script>
 
 <style scoped>
+body h1{
+    background-color: yellow;
+}
 
 </style>

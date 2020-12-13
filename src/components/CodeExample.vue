@@ -1,5 +1,5 @@
 <template>
-<h1> My Code Example</h1>   
+<h6> My Code Example</h6>   
 
 
 </template>

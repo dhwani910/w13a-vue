@@ -1,5 +1,5 @@
 <template>
-<h1> Meet The Team</h1>   
+<h6> Meet The Team</h6>   
 
 </template>
 

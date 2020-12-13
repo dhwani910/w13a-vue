@@ -1,5 +1,5 @@
 <template>
-<h1> Side Panel</h1>   
+<h6> Side Panel</h6>   
 
 </template>
 
